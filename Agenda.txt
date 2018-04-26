@@ -1,0 +1,12 @@
+Agenda
+1- What is Selenium?
+   Selenium's Tools suite.
+2- Download JDK (win 7)
+3- Dowload Selenium Webdriver 
+4- Selenium Jar File (compatibility with Firefox Browser)
+5- What is TestNG
+6- the first test project
+7- Selenium-Maven Project
+
+
+
